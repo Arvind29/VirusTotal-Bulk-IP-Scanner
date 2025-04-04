@@ -1,6 +1,10 @@
 # VirusTotal-Bulk-IP-Scanner
 
 Automates bulk IP reputation checks via VirusTotal API, outputting results with risk indicators in Excel.
+- Bulk scan multiple IP addresses at once
+- Uses VirusTotal API for reputation checks
+- Outputs results in an easy-to-read Excel file
+- Simple and fast execution
 
 Steps to Use the Script:
 
