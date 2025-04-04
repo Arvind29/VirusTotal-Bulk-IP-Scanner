@@ -6,7 +6,12 @@ Automates bulk IP reputation checks via VirusTotal API, outputting results with 
 - Outputs results in an easy-to-read Excel file
 - Simple and fast execution
 
-Steps to Use the Script:
+Prerequisites
+- Python 3.x installed
+- Install dependencies:
+  pip install requests pandas openpyxl
+
+# Steps to Use the Script:
 
 Prepare the Input File
   Create an Excel file (input.xlsx) in the same folder as the script.
