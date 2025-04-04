@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from openpyxl.styles import PatternFill
 import os
 
-API_KEY = "ba711c14d8cec5b2e184d59074ac8849a1a1a075656b3d9c689acde807f1b43d"
+API_KEY = "YOUR_IP_KEY"
 VT_URL = "https://www.virustotal.com/api/v3/ip_addresses/"
 
 cwd = os.getcwd()
