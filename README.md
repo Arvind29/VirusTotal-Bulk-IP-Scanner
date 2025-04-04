@@ -13,4 +13,4 @@ The script will:
   3. Save results in output.xlsx.
   4. Highlight IPs with Malicious > 2 in red.
   5. If an error occurs, it will display a message.
-  6. Open output.xlsx in the same folder.
+  6. Check output.xlsx file in the same folder.
